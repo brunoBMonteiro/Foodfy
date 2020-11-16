@@ -125,7 +125,7 @@ header {
 
 .close-modal {
     position: relative;
-    top: 364px;
+    top: 220px;
     left: 281px;
     right: 281px;
     bottom: 30px;
@@ -143,3 +143,4 @@ header {
     opacity: 1;
     visibility: visible;
 }
+
