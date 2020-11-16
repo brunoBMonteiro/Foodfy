@@ -123,9 +123,58 @@ header {
 
 }
 
+.modal-content {
+    width: 100%;
+    height: 70%;
+}
+
+.modal-content-image {
+    width: 600px;
+    height: 200px;
+}
+
+.modal-content-image img {
+    width: 600px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 30px 30px 183px 30px;
+}
+
+.modal-content-product {
+    width: 332px;
+    height: 28px;
+}
+
+.modal-content-product p {
+    width: 332px;
+    height: 28px;
+    font-size: 24px;
+    color: #111111;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 40px;
+    left: 220px;
+}
+
+.modal-content-author {
+    width: auto;
+    height: auto;
+}
+
+.modal-content-author p {
+    width: 146px;
+    height: 21px;
+    color: #777777;
+    font-size: 18px;
+    position: relative;
+    top: 50px;
+    left: 260px;
+    font-family: 'Roboto', sans-serif;
+}
+
 .close-modal {
     position: relative;
-    top: 220px;
+    top: 60px;
     left: 281px;
     right: 281px;
     bottom: 30px;
