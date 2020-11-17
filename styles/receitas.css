@@ -143,9 +143,6 @@ header {
 .modal-content-product {
     width: 332px;
     height: 28px;
-}
-
-.modal-content-product p {
     width: 332px;
     height: 28px;
     font-size: 24px;
@@ -156,12 +153,10 @@ header {
     left: 220px;
 }
 
+
 .modal-content-author {
     width: auto;
     height: auto;
-}
-
-.modal-content-author p {
     width: 146px;
     height: 21px;
     color: #777777;
@@ -171,6 +166,7 @@ header {
     left: 260px;
     font-family: 'Roboto', sans-serif;
 }
+
 
 .close-modal {
     position: relative;
